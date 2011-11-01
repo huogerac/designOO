@@ -1,7 +1,6 @@
 package br.com.bc.movie;
 
 import java.util.ArrayList;
-import java.util.Enumeration;
 import java.util.List;
 
 public class Customer {
